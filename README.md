@@ -1,1 +1,1 @@
-# safe
+cd UC Irvine
