@@ -1,1 +1,1 @@
-cd UC Irvine
+cd UCI
